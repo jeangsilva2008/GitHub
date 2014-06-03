@@ -6,6 +6,7 @@ import com.jeans.hb2.model.Pedido;
 
  
 public interface PedidoService {
+	
      
 	   List<Pedido> getAll() throws Exception;
 	   
